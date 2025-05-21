@@ -1,6 +1,6 @@
 # 👩🏻‍💻 DioneRMS
 
-Me chamo Dione Santos Ramos, tenho 20 anosSou natural de uma cidadezinha do interior do Nordeste chamada Ibipitanga. Atualmente, estou em Salvador cursando Ciência e Tecnologia na UFBA
+Me chamo Dione Santos Ramos, tenho 20 anos Sou natural de uma cidadezinha do interior do Nordeste chamada Ibipitanga. Atualmente, estou em Salvador cursando Ciência e Tecnologia na UFBA
 <p align="left">
     <a href="https://www.youtube.com/@larissakich">
     <a href="https://github.com/DioneRMS?tab=repositories&sort=stargazers">
