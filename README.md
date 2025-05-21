@@ -30,7 +30,16 @@ Me chamo Dione Santos Ramos, tenho 20 anos Sou natural de uma cidadezinha do int
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />  
+    
 <img 
     align="left" 
     alt="Python" 
